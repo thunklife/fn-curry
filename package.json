@@ -1,0 +1,17 @@
+{
+  "name": "curry",
+  "version": "0.0.0",
+  "description": "takes a function and number of args (optional) and returns a new function that will partially apply the original until all arguments are supplied.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "keywords": [
+    "curry",
+    "partial",
+    "application",
+    "functional"
+  ],
+  "author": "wilhelmson",
+  "license": "MIT"
+}
