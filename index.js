@@ -1,6 +1,6 @@
+var slice = Array.prototype.slice;
+
 module.exports = function(fn, fnLength) {
-	var slice = Array.prototype.slice;
-	
 	fnLength = fnLength || fn.length;
 
 	return function makeCurry (){

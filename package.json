@@ -13,5 +13,8 @@
     "functional"
   ],
   "author": "wilhelmson",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "~0.4.6"
+  }
 }
