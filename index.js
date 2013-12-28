@@ -1,5 +1,4 @@
 var slice = Array.prototype.slice;
-
 module.exports = function(fn, fnLength) {
 	fnLength = fnLength || fn.length;
 
