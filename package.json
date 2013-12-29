@@ -1,5 +1,5 @@
 {
-  "name": "curry",
+  "name": "fn-curry",
   "version": "0.0.0",
   "description": "takes a function and number of args (optional) and returns a new function that will partially apply the original until all arguments are supplied.",
   "main": "index.js",
