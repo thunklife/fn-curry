@@ -1,6 +1,6 @@
 {
   "name": "fn-curry",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "takes a function and number of args (optional) and returns a new function that will partially apply the original until all arguments are supplied.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "devDependencies": {
     "tap": "~0.4.6"
   },
-    "repository":{
+  "repository": {
     "type": "git",
     "url": "https://github.com/wilhelmson/fn-curry.git"
   },
